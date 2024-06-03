@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Suryashish 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+Developer;Open-source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer-Science-Undergrad;Open-source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here, you'll find a collection of my projects, contributions, and interests.
 
@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 ## 📈 GitHub Stats
@@ -21,19 +19,19 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryashish&layout=compact&theme=radical&hide_border=true)
 
 ## 🌱 Currently Learning
-- Machine Learning with Python
-- Advanced React Patterns
-- DevOps with Kubernetes
+- Data Structure
+- React and Node.js
+- Python and its application using numpy, mathplolib
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@suryashish](https://twitter.com/suryashish)
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/suryashish-kundu/))
+- Twitter: [@suryashish]([https://twitter.com/suryashish](https://x.com/Suryashish_))
 - Email: yourname@example.com
 
 ## 🔥 Fun Facts
-- 🌍 I'm a digital nomad, traveling while working.
-- 📚 Avid reader and book collector.
-- 🎮 Gamer and tech enthusiast.
+- 🌍 I'm a graphics designer part time
+- 📚 Love to learn new concepts .
+- 🎮 Love to socialise and I believe a good team can do anything.
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
