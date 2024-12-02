@@ -11,7 +11,6 @@
 
 ###
 
-<div align="left">
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -23,7 +22,6 @@
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-</div>
 
 ###
 
