@@ -1,59 +1,56 @@
-# Hi there, I'm Suryashish 👋
+<h2 align="left">Hi 👋! My name is Suryashish and I'm a Information Technology Undergrad, from India</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer-Science-Undergrad;Technology-Admirer;Open-source+Enthusiast)](https://git.io/typing-svg)
+###
 
-Welcome to my GitHub profile! Passionate about technology with continuous efforts of learning.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suryashish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suryashish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🔧 Technologies & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+###
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=suryashish&show_icons=true&hide_border=true&theme=radical)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+</div>
 
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryashish&layout=compact&theme=radical&hide_border=true)
+###
 
-## 🌱 Currently Learning
-- Data Structure
-- React and Node.js
-- Python and its application using numpy, mathplolib
+<div align="left">
+  <a href="https://www.linkedin.com/in/suryashish-kundu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/suryashish-kundu/))
-- Twitter: [@suryashish]([https://twitter.com/suryashish](https://x.com/Suryashish_))
-- Email: yourname@example.com
+###
 
-## 🔥 Fun Facts
-- 🌍 I'm a graphics designer part time
-- 📚 Love to learn new concepts .
-- 🎮 Love to socialise and I believe a good team can do anything.
+<br clear="both">
 
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post 1](https://yourblog.com/post1)
-- [Your Blog Post 2](https://yourblog.com/post2)
-- [Your Blog Post 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+<img src="https://raw.githubusercontent.com/Suryashish/Suryashish/output/snake.svg" alt="Snake animation" />
 
-## 🤝 Contributions
-- Contributor to [Some Open Source Project](https://github.com/project)
-- Maintainer of [Your Own Project](https://github.com/yourproject)
+###
 
-## 🗂️ Highlight Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suryashish&repo=yourrepository&theme=radical)](https://github.com/suryashish/yourrepository)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suryashish&repo=anotherrepository&theme=radical)](https://github.com/suryashish/anotherrepository)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Suryashish/count.svg?"  />
+</div>
 
-## 🧑‍💻 Hackathons & Events
-- Hackathon Winner at [Event Name](https://eventlink.com)
-- Speaker at [Conference Name](https://conferencelink.com)
-
-Thanks for stopping by! Feel free to reach out if you want to collaborate on a project or just chat about tech.
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=suryashish.suryashish)
-
+###
