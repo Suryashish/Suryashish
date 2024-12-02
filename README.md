@@ -1,3 +1,5 @@
+![Cover](https://github.com/user-attachments/assets/d6dfb28f-e055-4e6d-bd97-d7db637065d1)
+
 <h2 align="left">Hi 👋! My name is Suryashish and I'm a Information Technology Undergrad, from India</h2>
 
 ###
@@ -6,9 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Suryashish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suryashish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryashish&label=Profile%20views&color=0e75b6&style=flat" alt="suryashish" /> </p>
-
 
 ###
 
