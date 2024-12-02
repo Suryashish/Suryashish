@@ -1,10 +1,11 @@
 # Hi there, I'm Suryashish 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer-Science-Undergrad;Open-source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer-Science-Undergrad;Technology-Admirer;Open-source+Enthusiast)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here, you'll find a collection of my projects, contributions, and interests.
+Welcome to my GitHub profile! Passionate about technology with continuous efforts of learning.
 
 ## 🔧 Technologies & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
