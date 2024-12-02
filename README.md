@@ -28,7 +28,6 @@
     <img src="https://skillicons.dev/icons?i=react,docker,postgres,git,python,nodejs,vite,html,css,js,vscode,c++,GCP,&perline=6" />
   </a>
 </p>
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/suryashish-kundu/" target="_blank">
